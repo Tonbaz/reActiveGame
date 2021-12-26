@@ -11,7 +11,7 @@ export default function App() {
         <Block></Block>
       </View>
 
-      {/* Middle track */}
+      {/* Middle track yay*/}
       <View style={styles.track}>
         <Block></Block>
       </View>
